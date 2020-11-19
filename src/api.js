@@ -1,4 +1,4 @@
-characters = [
+const apiCharacters = [
     {
         name: "Goku",
         img: "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/2/21/Dl5OdcoU0AAtMfQ.jpeg/revision/latest/scale-to-width-down/340?cb=20181122082552",
@@ -36,4 +36,4 @@ characters = [
     }
 ]
 
-export default characters
+export default apiCharacters
